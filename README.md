@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- Banner Industrial (substitua pela URL da sua imagem) -->
-  <img src="https://i.imgur.com/SEU_BANNER_AQUI.png" alt="Banner Automação Industrial" width="1000" style="border-radius: 15px;"/>
+  <!-- <img src="https://i.imgur.com/SEU_BANNER_AQUI.png" alt="Banner Automação Industrial" width="1000" style="border-radius: 15px;"/>-->
 
   <h1>🤖 Ewerton Alves</h1>
   
@@ -45,10 +45,3 @@ Apaixonado por transformar processos manuais em sistemas **autônomos e intelige
 </div>
 
 **PLC & Automação**: Siemens TIA Portal, Allen-Bradley Studio 5000, Ladder Logic, Structured Text, SCADA (Ignition, WinCC), HMI, VFDs, Sensores Industriais.
-
-### Um pouco de Ladder Logic
-
-```ladder
-|--[Start]--[Stop]--[Motor]--|
-|          |                |
-|          +----- [OL] -----+
