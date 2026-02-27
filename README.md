@@ -1,12 +1,12 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A3E0&height=250&section=header&text=Ewerton%20Alves&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Engenharia%20de%20Controle%20e%20Automação%20%7C%20Indústria%204.0&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%" alt="Banner Ewerton Alves"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A3E0&height=250&section=header&text=Ewerton%20Alves&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Engennheiro%20de%20Controle%20e%20Automação%20%7C%20Indústria%204.0&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%" alt="Banner Ewerton Alves"/>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/ewerton-alves-435837262/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="mailto:seu_email_aqui@email.com">
+    <a href="mailto:ewerton1555@email.com">
       <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
   </p>
