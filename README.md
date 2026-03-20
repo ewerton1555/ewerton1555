@@ -62,7 +62,6 @@ Para cobrir toda a pirâmide da automação, divido meu stack técnico entre har
 ## 📈 Métricas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=nord" alt="Linguagens Mais Utilizadas"/>
+  
 </div>
 
