@@ -57,11 +57,5 @@ Para cobrir toda a pirâmide da automação, divido meu stack técnico entre har
   <img src="https://img.shields.io/badge/Redes_Industriais-333333?style=for-the-badge" alt="Profinet/Ethernet IP" />
 </p>
 
----
 
-## 📈 Métricas do GitHub
-
-<div align="center">
-  
-</div>
 
